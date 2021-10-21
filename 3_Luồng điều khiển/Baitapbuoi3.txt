@@ -1,0 +1,16 @@
+Bài 1: Cho số n nhập từ bàn phím > 0, Tính tổng từ 1 đến n.
+
+Bài 2: Nhập vào 1 số N > 0.
+a. In ra các số lẻ < N
+b. Tính tổng bình phương của các số lẻ đó.
+c. In ra các số chẵn lớn hơn trung bình cộng của N số nguyên dương từ 1 
+tới N.
+
+Bài 3: Tìm ước chung lớn nhất, BCNN của 2 số được nhập vào từ bàn phím.
+
+Bài 4: Kiểm tra 1 số có là số nguyên tố hay không?
+
+Bài 5: Kiểm tra 1 số hoàn hảo (là số có tổng các ước nhỏ hơn nó, bằng chính 
+nó) (Ex: 6 = 1+2+3).
+
+Bài 6: In ra các số hoàn hảo từ 1 đến n

@@ -1,0 +1,81 @@
+Bài 1: In ra màn hình dòng chữ “Hello, this is my first appliation”.
+
+Bài 2: Nhập 1 số nguyên n từ bàn phím và hiển thị giá trị vừa nhập ra màn hình.
+
+Bài 3: Nhập 1 số nguyên n và một số thực m từ bàn phím và hiển thị giá trị vừa 
+nhập ra màn hình.
+Bài 4: Nhập 1 số nguyên n, một số thực n, một xâu ký tự từ bàn phím và hiển thị 
+giá trị vừa nhập ra màn hình.
+
+Bài 5: Nhập 2 số nguyên n, m từ bàn phím và hiển thị kết quả là tổng của 2 số 
+này.
+
+Bài 6: Nhập 2 số nguyên n1, m1 ; 2 số thực n2, m2 từ bàn phím. Tính tổng của 2 
+số nguyên, tổng của 2 số thực, tính tổng của n1+n2 và hiển thị các kết quả ra 
+màn hình.
+
+Bài 7: Tìm max, min của 2 số được nhập vào từ bàn phím
+
+Bài 8: Tìm max, min của 3 số được nhập vào từ bàn phím
+
+Bài 9 (nâng cao): Giải phương trình bậc nhất: ax + b = 0.
+
+Bài 10 (nâng cao): Giải phương trình bậc 2: ax2 + bx +c = 0
+
+Bài 11: Tạo class có tên là Person và có các thuộc tính sau đây:
+private String name;
+private String address;
+private double salary;
++ Tạo hàm input(): nhập thông tin cho Person
++ Tạo hàm view(): hiển thị thông tin cho Person
++ Tạo hàm main() để kiểm tra chương trình
+
+Bài 12: Tạo class XeMay có các thuộc tính sau:
+String ten
+String nhaSanXuat
+Int soLuongBanhXe
+Co 2 method
+void nhapThongTin()
+void hienThiThongTin()
+Trong ham main goi cac method : nhapThongTin(), hienThiThongTin()
+
+Bài 13: Viết chương trình nhập thông tin của sinh viên với các thông tin cần lưu trữ là 
+tên, mã sinh viên, điểm lý thuyết Java, điểm thực hành Java và hiển thị xếp loại.
+➢ Nếu Lý thuyết dưới 4 hiển thị "Thi lại lý thuyết".
+➢ Nếu Thực hành dưới 4 hiển thị "Thi lại thực hành".
+➢ Nếu điểm trung bình LT, TH dưới 4 thì hiển thị "Sinh viên phải học lại".
+➢ Nếu điểm trung bình LT, TH từ 4 đến 7 thì hiển thị "Sinh viên đạt môn Java".
+➢ Nếu điểm trung bình LT, TH trên 7 thì hiển thị "Sinh viên xuất sắc môn Java".
+
+Bài 14: Nhập vào 1 số nguyên N. Kiểm tra xem N là số chẵn hay số lẻ.
+
+Bài 15: Nhập vào 3 số a, b,c. Kiểm tra xem a,b,c có tạo thành 1 tam giác hay không.
+Điều kiện để 3 số nguyên tạo thành 1 tam giác là 3 số phải > 0 và đồng thời thỏa mãn 
+cả 3 điều kiện tổng của 2 số phải lớn hơn số còn lại. Tiếp đó hãy tính diện dích, chu 
+vi của tam giác trên.
+
+Bài 16: Viết chương trình nhập vào 4 số nguyên. Tìm và in ra số lớn nhất. Hướng dẫn: 
+Ta có 4 số nguyên a, b, c, d. Tìm 2 số nguyên lớn nhất x, y của 2 cặp (a, b) và (c, d). 
+Sau đó so sánh 2 số nguyên x, y để tìm ra số nguyên lớn nhất.
+
+Bài 17: Viết chương trình nhập vào tháng, in ra tháng đó có bao nhiêu ngày.
+Hướng dẫn: Nhập vào tháng
+Nếu là tháng 1, 3, 5, 7, 8, 10, 12 thì có 30 ngày
+Nếu là tháng 4, 6, 9, 11 thì có 31 ngày
+Nếu là tháng 2 và là năm nhuận thì có 29 ngày ngược lại 28 ngày
+(Năm nhuận là năm chia chẵn cho 4)
+
+Bài 18: Viết chương trình trò chơi One-Two-Three ra cái gì ra cái này theo điều kiện:
+- Búa (B) thắng Kéo, thua Giấy.
+- Kéo (K) thắng Giấy, thua Búa.
+- Giấy (G) thắng Búa, thua Kéo.
+Hướng dẫn: Dùng lệnh switch lồng nhau
+
+Bài 19: Viết chương trình xác định biến ký tự color rồi in ra thông báo
+- RED, nếu color = 'R' hoặc color = 'r'
+- GREEN, nếu color = 'G' hoặc color = 'g'
+- BLUE, nếu color = 'B' hoặc color = 'b'
+- BLACK, nếu color có giá trị khác.
+
+Bài 20: Viết chương trình nhập số giờ làm và lương giờ rồi tính số tiền lương tổng 
+cộng. Nếu số giờ làm lớn hơn 40 thì những giờ làm dôi ra được tính 1,5 lần.

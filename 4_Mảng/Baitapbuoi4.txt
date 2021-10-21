@@ -1,0 +1,20 @@
+Bài 1: Nhập một mảng có 10 phần tử các số nguyên, hiển thị mảng vừa nhập ra màn hình
+
+Bài 2: Nhập tự động (Dùng lớp Random) mảng có 10 phần tử các số nguyên, hiển thị mảng vừa nhập ra màn hình.
+
+Bài 3: Nhập mảng có n phần tử các số nguyên, In ra phần tử max, min của mảng.
+
+Bài 4: Nhập mảng có n phần tử các số nguyên, Sắp xếp mảng theo tứ tự tăng dần.
+
+Bài 5: Nhập mảng có n phần tử các số nguyên, 
+	a. hiển thị mảng vừa nhập ra màn hình.
+	b. Tính giá trị trung bình các phần tử của mảng
+	
+Bài 6: Nhập mảng có n phần tử các số nguyên,
+	a. In ra màn hình các phần tử xuất hiện đúng một lần
+	b. In ra màn hình các phần tử xuất hiện hai lần
+	c. In ra màn hình số lần xuất hiện của các phần tử
+
+Bài 7: Nhập mảng có nxm phần tử các số nguyên,
+	a. Hiển thị mảng vừa nhập ra màn hình.
+	b. Tính tổng các số chẵn trong ma trận.
